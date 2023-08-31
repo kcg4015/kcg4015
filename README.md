@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **kcg4015/kcg4015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
